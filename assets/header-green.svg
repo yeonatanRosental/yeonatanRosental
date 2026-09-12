@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230" role="img" aria-labelledby="title desc">
-  <title id="title">Yeonatan Rosenthal</title>
+  <title id="title">Yeonatan Rosental</title>
   <desc id="desc">Full Stack Developer. MERN and TypeScript. A dark terminal-inspired header with green accents.</desc>
   <rect width="900" height="230" rx="12" fill="#0d140f"/>
   <g fill="none" stroke="#264532">
@@ -8,7 +8,7 @@
   </g>
   <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
     <text x="56" y="65" font-size="12" letter-spacing="3" fill="#86efac">~/yeonatanRosental</text>
-    <text x="54" y="118" font-size="42" font-weight="600" letter-spacing="-1" fill="#86efac">Yeonatan Rosenthal</text>
+    <text x="54" y="118" font-size="42" font-weight="600" letter-spacing="-1" fill="#86efac">Yeonatan Rosental</text>
     <text x="56" y="151" font-size="16" fill="#a3b8a9">Full Stack Developer</text>
     <text x="844" y="151" text-anchor="end" font-size="13" fill="#86efac">MERN / TypeScript</text>
     <text x="844" y="65" text-anchor="end" font-size="16" fill="#86efac">[ ∷ ]</text>

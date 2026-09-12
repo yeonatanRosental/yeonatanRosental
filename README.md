@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header-green.svg" width="900" alt="Yeonatan Rosenthal — Full Stack Developer · MERN / TypeScript" />
+  <img src="assets/header-green.svg?v=rosental" width="900" alt="Yeonatan Rosental — Full Stack Developer · MERN / TypeScript" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 I'm Yeonatan, a full stack developer working primarily with the MERN stack and TypeScript. I'm currently working on military development projects. Most of my work is confidential, so this profile offers a view of my skills rather than a project portfolio.
 
 ```yaml
-name: Yeonatan Rosenthal
+name: Yeonatan Rosental
 role: Full Stack Developer
 primary_language: TypeScript
 stack: [MongoDB, Express, React, Node.js]

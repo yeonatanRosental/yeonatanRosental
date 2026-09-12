@@ -1,6 +1,6 @@
 # Profile setup
 
-1. These files target the public profile repository `yeonatanRosental/yeonatanRosental`. Keep `README.md` at its root and include `assets/header-green.svg`.
+1. These files target the public profile repository `yeonatanRosental/yeonatanRosental`. Keep `README.md` at its root and include the `assets` directory and `.github/workflows/stats.yml`.
 2. Push to the default branch. GitHub displays the README on your profile automatically while the repository is public.
 
 The GIF and technology icons load from external services. The statistics card is stored in `assets/stats.svg`. Its initial snapshot uses public data, including visible private contribution totals. The workflow replaces it with authenticated statistics after you configure the token.
@@ -18,3 +18,5 @@ The card includes PRs, issues, commits, stars, contributed-to repositories, and 
 The design adapts the header, bio, icons, and statistics from [Piyush Malhotra's guide](https://dev.to/thepiyushmalhotra/how-to-design-an-attractive-github-profile-readme-1ppg) to a clean layout without emojis. The supplied GIF is embedded at its original URL.
 
 Resources: [Devicon](https://github.com/devicons/devicon), [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended).
+
+The sci-fi header, stack connections, and footer are local SVG assets with CSS animation and reduced-motion support. Edit these assets to customize the green theme. The supplied GIF remains externally hosted.

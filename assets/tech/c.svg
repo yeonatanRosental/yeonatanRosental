@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="124" viewBox="0 0 128 124" role="img" aria-labelledby="title">
+  <title id="title">C</title>
+  <!-- Logo: Devicon v2.17.0. See LICENSE in this directory. -->
+  <rect x="6.5" y="6.5" width="115" height="109" rx="12" fill="#0b1710" stroke="#264a33"/>
+  <path d="M20 17h12M20 17v12" fill="none" stroke="#538761"/>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" x="42" y="24" width="44" height="44"><path fill="#a9bacd" d="M125 50c-4-32-24-50-62-50C29 0 3 24 3 64c0 39 24 64 64 64 32 0 55-19 58-50H87c-2 11-8 20-20 20-21 0-24-16-24-33 0-23 8-35 22-35 13 0 20 7 22 20z" /></svg>
+  <text x="64" y="94" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" fill="#c9dfce">C</text>
+</svg>

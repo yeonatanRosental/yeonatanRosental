@@ -32,23 +32,23 @@ other_languages: [C, Python, Java]
   <img src="assets/stack-flow.svg" width="900" alt="React → Node.js and Express → MongoDB, built with TypeScript" />
 </p>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" title="MongoDB" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/express/express-original.svg" width="36" height="36" alt="Express" title="Express" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/react/react-original.svg" width="36" height="36" alt="React" title="React" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" title="Node.js" />
+<p align="center"><sub>PRIMARY STACK</sub></p>
+
+<p align="center">
+  <img src="assets/tech/typescript.svg" width="128" height="124" alt="TypeScript" />
+  <img src="assets/tech/mongodb.svg" width="128" height="124" alt="MongoDB" />
+  <img src="assets/tech/express.svg" width="128" height="124" alt="Express" />
+  <img src="assets/tech/react.svg" width="128" height="124" alt="React" />
+  <img src="assets/tech/nodejs.svg" width="128" height="124" alt="Node.js" />
 </p>
 
-**TypeScript** · MongoDB · Express · React · Node.js
+<p align="center"><sub>ADDITIONAL LANGUAGES</sub></p>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/c/c-original.svg" width="30" height="30" alt="C" title="C" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/python/python-original.svg" width="30" height="30" alt="Python" title="Python" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/java/java-original.svg" width="30" height="30" alt="Java" title="Java" />
+<p align="center">
+  <img src="assets/tech/c.svg" width="128" height="124" alt="C" />
+  <img src="assets/tech/python.svg" width="128" height="124" alt="Python" />
+  <img src="assets/tech/java.svg" width="128" height="124" alt="Java" />
 </p>
-
-Also comfortable with **C**, **Python**, and **Java**.
 
 ## ⌜ 03 / GitHub Stats ⌟
 

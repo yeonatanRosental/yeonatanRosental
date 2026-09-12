@@ -3,7 +3,7 @@
 1. These files target the public profile repository `yeonatanRosental/yeonatanRosental`. Keep `README.md` at its root and include the `assets` directory and `.github/workflows/stats.yml`.
 2. Push to the default branch. GitHub displays the README on your profile automatically while the repository is public.
 
-The GIF and technology icons load from external services. The statistics card is stored in `assets/stats.svg`. Its initial snapshot uses public data, including visible private contribution totals. The workflow replaces it with authenticated statistics after you configure the token.
+The GIF loads from an external service. Technology icons are stored in `assets/tech` as padded, labeled SVG tiles; their Devicon license is included in that directory. The statistics card is stored in `assets/stats.svg`. Its initial snapshot uses public data, including visible private contribution totals. The workflow replaces it with authenticated statistics after you configure the token.
 
 ## Private repository statistics
 

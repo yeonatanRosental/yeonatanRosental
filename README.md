@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="#profile">[ profile.txt ]</a> · <a href="#stack">[ toolbox ]</a> · <a href="#stats">[ stats.log ]</a> · <a href="#icons">[ icon shelf ]</a>
+  <a href="#profile">[ profile.txt ]</a> · <a href="#stack">[ toolbox ]</a> · <a href="#stats">[ stats.log ]</a> · <a href="#playing">[ now playing ]</a> · <a href="#icons">[ icon shelf ]</a>
 </p>
 
 <table align="center">
@@ -75,6 +75,18 @@ Most of my projects are confidential. These statistics reflect the activity avai
 
 <p align="center">
   <img src="assets/stats.svg?v=rosental" width="420" alt="Yeonatan's GitHub statistics" />
+</p>
+
+<a name="playing"></a>
+
+## Currently Playing Game
+
+<p align="center"><samp>NOW PLAYING / ELDEN RING</samp></p>
+
+<p align="center">
+  <a href="https://www.gifservice.fr/en/gif/multi-media-video-games-e-elden-ring-icons-g17124-p372502-fsmall.gif">
+    <img src="https://www.gifservice.fr/en/gif/multi-media-video-games-e-elden-ring-icons-g17124-p372502-fsmall.gif" width="180" alt="Elden Ring animated icon" />
+  </a>
 </p>
 
 <a name="icons"></a>

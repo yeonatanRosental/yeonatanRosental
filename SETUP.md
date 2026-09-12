@@ -20,3 +20,5 @@ The design adapts the header, bio, icons, and statistics from [Piyush Malhotra's
 Resources: [Devicon](https://github.com/devicons/devicon), [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended).
 
 The clean terminal header preserves the glowing name and sci-fi typography. The circuit-line footer is static. The stack connections use CSS animation with reduced-motion support. Edit these assets to customize the green theme. The supplied GIF remains externally hosted.
+
+Vintage icons are stored unmodified in `assets/retro`, with source post links in `assets/retro/SOURCES.md`. Header and footer remain static. Docker, OpenShift, and Splunk are included in the primary stack; the latter two use Simple Icons with the license stored alongside the technology tiles.

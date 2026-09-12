@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="31" viewBox="0 0 88 31" role="img" aria-labelledby="title">
+<title id="title">VIEW SOURCE</title>
+<path fill="#09160d" d="M0 0h88v31H0z"/>
+<path d="M0 30V0h87" fill="none" stroke="#a2caa7"/><path d="M1 30h86V1" fill="none" stroke="#24422b"/>
+<path d="M4 4h23v23H4z" fill="#183622" stroke="#456e4d"/>
+<path d="m10 11 5 4-5 4m7 1h6" fill="none" stroke="#a9ffb9" stroke-width="2"/>
+<g font-family="monospace" font-size="7" text-anchor="middle" fill="#b5e5bc"><text x="56" y="13">VIEW</text><text x="56" y="23">SOURCE</text></g>
+</svg>

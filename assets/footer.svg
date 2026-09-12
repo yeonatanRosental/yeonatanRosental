@@ -1,13 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="70" viewBox="0 0 900 70" role="img" aria-labelledby="title desc">
   <title id="title">End of Yeonatan Rosental's profile</title>
-  <desc id="desc">A green signal travels along a circuit line beneath the profile.</desc>
-  <style>
-    .signal{stroke-dasharray:35 1000;animation:travel 12s linear infinite}
-    @keyframes travel{from{stroke-dashoffset:1035}to{stroke-dashoffset:0}}
-    @media(prefers-reduced-motion:reduce){.signal{animation:none}}
-  </style>
+  <desc id="desc">A static green circuit line beneath the profile with end-of-transmission text.</desc>
   <rect width="900" height="70" rx="8" fill="#07100d"/>
   <path id="circuit" d="M25 23h190l10-10h42l20 20h74l10-10h160l10 10h74l20-20h42l10 10h188" fill="none" stroke="#264a33"/>
-  <path class="signal" d="M25 23h190l10-10h42l20 20h74l10-10h160l10 10h74l20-20h42l10 10h188" fill="none" stroke="#86efac" stroke-width="2"/>
   <text x="450" y="56" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10" letter-spacing="2" fill="#81b792">└── yeonatanRosental / END OF TRANSMISSION ──┘</text>
 </svg>

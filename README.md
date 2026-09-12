@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header-green.svg?v=scifi-1" width="900" alt="Yeonatan Rosental — Full Stack Developer · MERN / TypeScript" />
+  <img src="assets/header-green.svg?v=clean-terminal-2" width="900" alt="Yeonatan Rosental — Full Stack Developer · MERN / TypeScript" />
 </p>
 
 <p align="center">
@@ -59,5 +59,5 @@ Most of my projects are confidential. These statistics reflect the activity avai
 </p>
 
 <p align="center">
-  <img src="assets/footer.svg" width="900" alt="End of transmission — yeonatanRosental" />
+  <img src="assets/footer.svg?v=static-1" width="900" alt="End of transmission — yeonatanRosental" />
 </p>

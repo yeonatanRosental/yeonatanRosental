@@ -19,4 +19,4 @@ The design adapts the header, bio, icons, and statistics from [Piyush Malhotra's
 
 Resources: [Devicon](https://github.com/devicons/devicon), [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended).
 
-The sci-fi header, stack connections, and footer are local SVG assets with CSS animation and reduced-motion support. Edit these assets to customize the green theme. The supplied GIF remains externally hosted.
+The clean terminal header preserves the glowing name and sci-fi typography. The circuit-line footer is static. The stack connections use CSS animation with reduced-motion support. Edit these assets to customize the green theme. The supplied GIF remains externally hosted.

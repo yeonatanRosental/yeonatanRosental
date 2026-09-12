@@ -1,0 +1,57 @@
+<p align="center">
+  <img src="assets/header-green.svg" width="900" alt="Yeonatan Rosenthal — Full Stack Developer · MERN / TypeScript" />
+</p>
+
+<p align="center">
+  <code>〈 interface → logic → data 〉</code>
+</p>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/d7/64/84/d76484f755763b87d45ec9c56e21b37c.gif" width="480" alt="Animated artwork selected by Yeonatan" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/yeonatanRosental">github / yeonatanRosental</a>
+</p>
+
+## ⌁ About
+
+I'm Yeonatan, a full stack developer working primarily with the MERN stack and TypeScript. I'm currently working on military development projects. Most of my work is confidential, so this profile offers a view of my skills rather than a project portfolio.
+
+```yaml
+name: Yeonatan Rosenthal
+role: Full Stack Developer
+primary_language: TypeScript
+stack: [MongoDB, Express, React, Node.js]
+other_languages: [C, Python, Java]
+```
+
+## ⌁ Stack
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" title="MongoDB" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/express/express-original.svg" width="36" height="36" alt="Express" title="Express" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/react/react-original.svg" width="36" height="36" alt="React" title="React" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" title="Node.js" />
+</p>
+
+**TypeScript** · MongoDB · Express · React · Node.js
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/c/c-original.svg" width="30" height="30" alt="C" title="C" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/python/python-original.svg" width="30" height="30" alt="Python" title="Python" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/java/java-original.svg" width="30" height="30" alt="Java" title="Java" />
+</p>
+
+Also comfortable with **C**, **Python**, and **Java**.
+
+## ⌁ GitHub Stats
+
+Most of my projects are confidential. These statistics reflect the activity available to this profile's stats generator, including private repositories when access is configured.
+
+<p align="center">
+  <img src="assets/stats.svg" width="420" alt="Yeonatan's GitHub statistics" />
+</p>
+
+<p align="center"><sub>└── yeonatanRosental · MERN / TypeScript ──┘</sub></p>

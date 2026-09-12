@@ -1,0 +1,63 @@
+name: Update GitHub stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main, master]
+    paths:
+      - .github/workflows/stats.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-stats
+  cancel-in-progress: false
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check token configuration
+        id: token
+        env:
+          # Leave the placeholder here. Add the real value as a repository secret.
+          STATS_TOKEN: ${{ secrets.STATS_TOKEN || 'example' }}
+        run: |
+          if [ "$STATS_TOKEN" = "example" ]; then
+            echo "configured=false" >> "$GITHUB_OUTPUT"
+            echo "::error::STATS_TOKEN is missing or still set to example. Add it under this repository's Settings > Secrets and variables > Actions > Repository secrets."
+            echo "Create or update STATS_TOKEN at https://github.com/${GITHUB_REPOSITORY}/settings/secrets/actions. Use a repository secret, not a variable or an environment secret. Then start a new workflow run." >> "$GITHUB_STEP_SUMMARY"
+            exit 1
+          else
+            echo "configured=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Check out the profile repository
+        if: steps.token.outputs.configured == 'true'
+        uses: actions/checkout@v6
+
+      - name: Generate authenticated stats
+        if: steps.token.outputs.configured == 'true'
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=yeonatanRosental&show=contributions&show_icons=false&hide_rank=true&hide_border=true&bg_color=0d140f&title_color=86efac&text_color=cbd9ce
+          path: assets/stats.svg
+          token: ${{ secrets.STATS_TOKEN }}
+          fail_on_error: "true"
+
+      - name: Commit the updated stats card
+        if: steps.token.outputs.configured == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "Update GitHub stats card"
+          git push

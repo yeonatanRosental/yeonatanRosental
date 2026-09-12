@@ -1,14 +1,14 @@
 
       <svg
-        width="336.8999996185303"
+        width="546.3666634559632"
         height="220"
-        viewBox="0 0 336.8999996185303 220"
+        viewBox="0 0 546.3666634559632 220"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">yeonatanRosental&#39;s GitHub Stats, Rank: B-</title>
+        <title id="titleId">Yeonatan Rosenthal / Johnatan Rosenthal&#39;s GitHub Stats, Rank: B-</title>
         <desc id="descId">Total Stars Earned: 0, Total Contributions: 289, Total Commits  (last year) : 99, Total PRs: 92, Total Issues: 1, Contributed to (last year): 6</desc>
         <style>
           .header {
@@ -117,7 +117,7 @@
           rx="4.5"
           height="99%"
           stroke="#e4e2e2"
-          width="335.8999996185303"
+          width="545.3666634559632"
           fill="#0d140f"
           stroke-opacity="0"
         />
@@ -133,7 +133,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >yeonatanRosental&#39;s GitHub Stats</text>
+      >Yeonatan Rosenthal / Johnatan Rosenthal&#39;s GitHub Stats</text>
     </g>
       </g>
     

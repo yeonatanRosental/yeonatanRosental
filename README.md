@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header-green.svg?v=clean-terminal-2" width="900" alt="Yeonatan Rosental — Full Stack Developer · MERN / TypeScript" />
+  <img src="assets/header-static.svg" width="900" alt="Yeonatan Rosental — Full Stack Developer · MERN / TypeScript" />
 </p>
 
 <p align="center">

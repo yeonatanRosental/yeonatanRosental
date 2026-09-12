@@ -50,23 +50,23 @@ other_languages: [C, Python, Java]
 <p align="center"><sub>PRIMARY STACK</sub></p>
 
 <p align="center">
-  <img src="assets/tech/typescript.svg?v=desktop-1" width="128" height="124" alt="TypeScript" />
-  <img src="assets/tech/react.svg?v=desktop-1" width="128" height="124" alt="React" />
-  <img src="assets/tech/nodejs.svg?v=desktop-1" width="128" height="124" alt="Node.js" />
-  <img src="assets/tech/express.svg?v=desktop-1" width="128" height="124" alt="Express" />
+  <img src="assets/tech/typescript-desktop.svg" width="128" height="124" alt="TypeScript" />
+  <img src="assets/tech/react-desktop.svg" width="128" height="124" alt="React" />
+  <img src="assets/tech/nodejs-desktop.svg" width="128" height="124" alt="Node.js" />
+  <img src="assets/tech/express-desktop.svg" width="128" height="124" alt="Express" />
   <br />
-  <img src="assets/tech/mongodb.svg?v=desktop-1" width="128" height="124" alt="MongoDB" />
-  <img src="assets/tech/docker.svg?v=desktop-1" width="128" height="124" alt="Docker" />
-  <img src="assets/tech/openshift.svg?v=desktop-1" width="128" height="124" alt="OpenShift" />
-  <img src="assets/tech/splunk.svg?v=desktop-1" width="128" height="124" alt="Splunk" />
+  <img src="assets/tech/mongodb-desktop.svg" width="128" height="124" alt="MongoDB" />
+  <img src="assets/tech/docker-desktop.svg" width="128" height="124" alt="Docker" />
+  <img src="assets/tech/openshift-desktop.svg" width="128" height="124" alt="OpenShift" />
+  <img src="assets/tech/splunk-desktop.svg" width="128" height="124" alt="Splunk" />
 </p>
 
 <p align="center"><sub>ADDITIONAL LANGUAGES</sub></p>
 
 <p align="center">
-  <img src="assets/tech/c.svg?v=desktop-1" width="128" height="124" alt="C" />
-  <img src="assets/tech/python.svg?v=desktop-1" width="128" height="124" alt="Python" />
-  <img src="assets/tech/java.svg?v=desktop-1" width="128" height="124" alt="Java" />
+  <img src="assets/tech/c-desktop.svg" width="128" height="124" alt="C" />
+  <img src="assets/tech/python-desktop.svg" width="128" height="124" alt="Python" />
+  <img src="assets/tech/java-desktop.svg" width="128" height="124" alt="Java" />
 </p>
 
 <a name="stats"></a>

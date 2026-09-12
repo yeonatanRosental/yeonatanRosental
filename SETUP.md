@@ -21,4 +21,4 @@ Resources: [Devicon](https://github.com/devicons/devicon), [GitHub Stats Extende
 
 The header, toolbox diagram, technology tiles, and footer use static SVGs styled as old desktop windows and beveled buttons. The header preserves the glowing name. The footer links back to the top of the README. Edit these assets to customize the green theme. The supplied GIF remains externally hosted.
 
-Vintage icons are stored unmodified in `assets/retro`, with source post links in `assets/retro/SOURCES.md`. Header and footer remain static. Docker, OpenShift, and Splunk are included in the primary stack; the latter two use Simple Icons with the license stored alongside the technology tiles.
+Retro web buttons are stored in `assets/retro`. Header and footer remain static. Docker, OpenShift, and Splunk are included in the primary stack; the latter two use Simple Icons with the license stored alongside the technology tiles.

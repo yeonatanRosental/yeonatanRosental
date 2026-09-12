@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="#profile">[ profile.txt ]</a> · <a href="#stack">[ toolbox ]</a> · <a href="#stats">[ stats.log ]</a> · <a href="#playing">[ now playing ]</a> · <a href="#icons">[ icon shelf ]</a>
+  <a href="#profile">[ profile.txt ]</a> · <a href="#stack">[ toolbox ]</a> · <a href="#stats">[ stats.log ]</a> · <a href="#playing">[ now playing ]</a>
 </p>
 
 <table align="center">
@@ -90,21 +90,6 @@ Most of my projects are confidential. These statistics reflect the activity avai
     <img src="https://www.gifservice.fr/en/gif/multi-media-video-games-e-elden-ring-icons-g17124-p372502-fsmall.gif" width="180" alt="Elden Ring animated icon" />
   </a>
 </p>
-
-<a name="icons"></a>
-
-## `C:\ICON_SHELF`
-
-<p align="center"><samp>saved from the old web / 100 × 100 pixels of nostalgia</samp></p>
-
-<p align="center">
-  <a href="https://oldinterneticons.tumblr.com/post/657181594253180928"><img src="assets/retro/world-wide-web.jpg" width="100" height="100" alt="Retro laptop and globe" /></a>
-  <a href="https://oldinterneticons.tumblr.com/post/822866235095171072"><img src="assets/retro/internet.png" width="100" height="100" alt="Wireframe internet graphic" /></a>
-  <a href="https://oldinterneticons.tumblr.com/post/187918140041"><img src="assets/retro/keyboard-error.jpg" width="100" height="100" alt="Keyboard not found. Press any key to continue." /></a>
-  <a href="https://oldinterneticons.tumblr.com/post/737273071676882944"><img src="assets/retro/shuttle.jpg" width="100" height="100" alt="Space shuttle on a black background" /></a>
-</p>
-
-<p align="center"><sub>Collected via <a href="https://oldinterneticons.tumblr.com/">Old Internet Icons</a> · <a href="assets/retro/SOURCES.md">image credits</a></sub></p>
 
 <p align="center"><samp>[ thanks for stopping by ]</samp> · <a href="#profile">back to profile ↑</a></p>
 

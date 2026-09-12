@@ -1,5 +1,7 @@
+<a name="top"></a>
+
 <p align="center">
-  <img src="assets/header-static.svg" width="900" alt="Yeonatan Rosental — Full Stack Developer · MERN / TypeScript" />
+  <img src="assets/header-homepage.svg" width="900" alt="Yeonatan Rosental — Full Stack Developer · MERN / TypeScript" />
 </p>
 
 <p align="center">
@@ -42,29 +44,29 @@ other_languages: [C, Python, Java]
 ## `C:\TOOLBOX`
 
 <p align="center">
-  <img src="assets/stack-flow.svg" width="900" alt="React → Node.js and Express → MongoDB, built with TypeScript" />
+  <img src="assets/toolbox-retro.svg" width="900" alt="React → Node.js and Express → MongoDB, built with TypeScript" />
 </p>
 
 <p align="center"><sub>PRIMARY STACK</sub></p>
 
 <p align="center">
-  <img src="assets/tech/typescript.svg" width="128" height="124" alt="TypeScript" />
-  <img src="assets/tech/react.svg" width="128" height="124" alt="React" />
-  <img src="assets/tech/nodejs.svg" width="128" height="124" alt="Node.js" />
-  <img src="assets/tech/express.svg" width="128" height="124" alt="Express" />
+  <img src="assets/tech/typescript.svg?v=desktop-1" width="128" height="124" alt="TypeScript" />
+  <img src="assets/tech/react.svg?v=desktop-1" width="128" height="124" alt="React" />
+  <img src="assets/tech/nodejs.svg?v=desktop-1" width="128" height="124" alt="Node.js" />
+  <img src="assets/tech/express.svg?v=desktop-1" width="128" height="124" alt="Express" />
   <br />
-  <img src="assets/tech/mongodb.svg" width="128" height="124" alt="MongoDB" />
-  <img src="assets/tech/docker.svg" width="128" height="124" alt="Docker" />
-  <img src="assets/tech/openshift.svg" width="128" height="124" alt="OpenShift" />
-  <img src="assets/tech/splunk.svg" width="128" height="124" alt="Splunk" />
+  <img src="assets/tech/mongodb.svg?v=desktop-1" width="128" height="124" alt="MongoDB" />
+  <img src="assets/tech/docker.svg?v=desktop-1" width="128" height="124" alt="Docker" />
+  <img src="assets/tech/openshift.svg?v=desktop-1" width="128" height="124" alt="OpenShift" />
+  <img src="assets/tech/splunk.svg?v=desktop-1" width="128" height="124" alt="Splunk" />
 </p>
 
 <p align="center"><sub>ADDITIONAL LANGUAGES</sub></p>
 
 <p align="center">
-  <img src="assets/tech/c.svg" width="128" height="124" alt="C" />
-  <img src="assets/tech/python.svg" width="128" height="124" alt="Python" />
-  <img src="assets/tech/java.svg" width="128" height="124" alt="Java" />
+  <img src="assets/tech/c.svg?v=desktop-1" width="128" height="124" alt="C" />
+  <img src="assets/tech/python.svg?v=desktop-1" width="128" height="124" alt="Python" />
+  <img src="assets/tech/java.svg?v=desktop-1" width="128" height="124" alt="Java" />
 </p>
 
 <a name="stats"></a>
@@ -107,5 +109,5 @@ Most of my projects are confidential. These statistics reflect the activity avai
 <p align="center"><samp>[ thanks for stopping by ]</samp> · <a href="#profile">back to profile ↑</a></p>
 
 <p align="center">
-  <img src="assets/footer.svg?v=static-1" width="900" alt="End of transmission — yeonatanRosental" />
+  <a href="#top"><img src="assets/footer-retro.svg" width="900" alt="End of transmission — back to top" /></a>
 </p>

@@ -51,7 +51,7 @@ Also comfortable with **C**, **Python**, and **Java**.
 Most of my projects are confidential. These statistics reflect the activity available to this profile's stats generator, including private repositories when access is configured.
 
 <p align="center">
-  <img src="assets/stats.svg" width="420" alt="Yeonatan's GitHub statistics" />
+  <img src="assets/stats.svg?v=rosental" width="420" alt="Yeonatan's GitHub statistics" />
 </p>
 
 <p align="center"><sub>└── yeonatanRosental · MERN / TypeScript ──┘</sub></p>

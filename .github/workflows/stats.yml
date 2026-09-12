@@ -47,7 +47,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=yeonatanRosental&show=contributions&show_icons=false&hide_rank=true&hide_border=true&bg_color=0d140f&title_color=86efac&text_color=cbd9ce
+          options: username=yeonatanRosental&custom_title=Yeonatan%20Rosental%27s%20GitHub%20Stats&show=contributions&show_icons=false&hide_rank=true&hide_border=true&bg_color=0d140f&title_color=86efac&text_color=cbd9ce
           path: assets/stats.svg
           token: ${{ secrets.STATS_TOKEN }}
           fail_on_error: "true"

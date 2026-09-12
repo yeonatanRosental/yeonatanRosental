@@ -81,7 +81,7 @@ Most of my projects are confidential. These statistics reflect the activity avai
 
 <a name="playing"></a>
 
-## Currently Playing Game
+## `C:\NOW_PLAYING.EXE`
 
 <p align="center"><samp>NOW PLAYING / ELDEN RING</samp></p>
 

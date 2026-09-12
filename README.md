@@ -86,8 +86,8 @@ Most of my projects are confidential. These statistics reflect the activity avai
 <p align="center"><samp>NOW PLAYING / ELDEN RING</samp></p>
 
 <p align="center">
-  <a href="https://www.gifservice.fr/en/gif/multi-media-video-games-e-elden-ring-icons-g17124-p372502-fsmall.gif">
-    <img src="https://www.gifservice.fr/en/gif/multi-media-video-games-e-elden-ring-icons-g17124-p372502-fsmall.gif" width="180" alt="Elden Ring animated icon" />
+  <a href="assets/372502-icons-elden-ring-e-video-games-multi-media.gif">
+    <img src="assets/372502-icons-elden-ring-e-video-games-multi-media.gif" width="180" alt="Elden Ring animated icon" />
   </a>
 </p>
 

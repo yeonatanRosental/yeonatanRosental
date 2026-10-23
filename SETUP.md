@@ -5,6 +5,16 @@
 
 The GIF loads from an external service. Technology icons are stored in `assets/tech` as padded, labeled SVG tiles; their Devicon license is included in that directory. The statistics card is stored in `assets/stats.svg`. Its initial snapshot uses public data, including visible private contribution totals. The workflow replaces it with authenticated statistics after you configure the token.
 
+## Hourly Steam activity
+
+The now-playing section links to `https://steamcommunity.com/id/oppoo12` and displays `assets/steam.svg` in the same retro style as the rest of the profile. Include `scripts/update_steam.py` and `.github/workflows/steam.yml` when pushing this repository.
+
+The **Update Steam activity** workflow runs every hour at minute 17, on changes to its workflow or generator, and through **Actions → Update Steam activity → Run workflow**. Scheduled runs use the default branch; GitHub may delay them. No Steam API key or additional secret is required. The workflow uses the repository's automatic `GITHUB_TOKEN` to commit the card, so Actions must be allowed to write repository contents.
+
+The card shows the current game when Steam exposes it, along with up to three recent games and their playtime over the last two weeks. Otherwise it displays the available online status or a private/no-activity message. In Steam's **Edit Profile → Privacy Settings**, make **My profile** and **Game details** public to share games. The checked timestamp makes the age of the snapshot visible; failed requests preserve the last successful card.
+
+The generator uses Steam's public community XML feed. [Valve documents this feed as deprecated](https://partner.steamgames.com/doc/webapi_overview/community), so future Steam changes may require updating the integration. It currently works for this profile. Run `python3 scripts/update_steam.py` to refresh locally and `python3 -m unittest discover -s scripts -p 'test_*.py'` to check the renderer.
+
 ## Private repository statistics
 
 1. Create a personal access token for the account whose statistics you want to display. The [stats action documents](https://github.com/stats-organization/github-readme-stats-action#inputs) classic PAT scopes `repo` and `read:user` for private repository statistics. Only authorize work repositories your organization permits you to use; organization approval or SSO authorization may also be required.

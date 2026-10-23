@@ -83,13 +83,13 @@ Most of my projects are confidential. These statistics reflect the activity avai
 
 ## `C:\NOW_PLAYING.EXE`
 
-<p align="center"><samp>NOW PLAYING / ELDEN RING</samp></p>
-
 <p align="center">
-  <a href="assets/372502-icons-elden-ring-e-video-games-multi-media.gif">
-    <img src="assets/372502-icons-elden-ring-e-video-games-multi-media.gif" width="180" alt="Elden Ring animated icon" />
+  <a href="https://steamcommunity.com/id/oppoo12">
+    <img src="assets/steam.svg" width="600" alt="oppoo12's Steam activity — refreshed hourly" />
   </a>
 </p>
+
+<p align="center"><sub>Steam activity · refreshed hourly · <a href="https://steamcommunity.com/id/oppoo12">view profile</a></sub></p>
 
 <p align="center"><samp>[ thanks for stopping by ]</samp> · <a href="#profile">back to profile ↑</a></p>
 

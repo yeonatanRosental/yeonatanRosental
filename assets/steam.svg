@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="264" viewBox="0 0 600 264" role="img" aria-labelledby="title desc">
 <title id="title">oppoo12 / Steam activity</title>
-<desc id="desc">NOW PLAYING: Cyberpunk 2077. Updated 2026-10-26 23:52 UTC.</desc>
+<desc id="desc">RECENT ACTIVITY: Currently offline. Updated 2026-10-27 05:01 UTC.</desc>
 <rect width="600" height="264" fill="#27372b"/>
 <path d="M1 263V1h598" fill="none" stroke="#afc3a7" stroke-width="2"/>
 <path d="M1 263h598V1" fill="none" stroke="#071009" stroke-width="2"/>
@@ -9,14 +9,14 @@
 <g font-family="Courier New,ui-monospace,monospace">
 <text x="15" y="22" font-size="12" fill="#e4f8e8">steam.exe / oppoo12</text>
 <text x="541" y="22" font-size="12" fill="#cbd9ce">─ □ ×</text>
-<text x="24" y="65" font-size="12" fill="#86efac">NOW PLAYING</text>
-<text x="24" y="98" font-size="19" fill="#e4f8e8">Cyberpunk 2077</text>
+<text x="24" y="65" font-size="12" fill="#86efac">RECENT ACTIVITY</text>
+<text x="24" y="98" font-size="19" fill="#e4f8e8">Currently offline</text>
 <text x="24" y="133" font-size="10" fill="#cbd9ce">RECENT GAMES / HOURS IN THE LAST 2 WEEKS</text>
 <text x="24" y="158" font-size="13" fill="#cbd9ce">ELDEN RING</text>
 <text x="500" y="158" font-size="13" fill="#cbd9ce">24.0 h</text>
 <text x="24" y="183" font-size="13" fill="#cbd9ce">DARK SOULS™: REMASTERED</text>
 <text x="500" y="183" font-size="13" fill="#cbd9ce">7.3 h</text>
 <text x="24" y="208" font-size="13" fill="#cbd9ce">Cyberpunk 2077</text>
-<text x="500" y="208" font-size="13" fill="#cbd9ce">1.1 h</text>
-<text x="24" y="244" font-size="10" fill="#cbd9ce">CHECKED 2026-10-26 23:52 UTC / HOURLY</text>
+<text x="500" y="208" font-size="13" fill="#cbd9ce">1.9 h</text>
+<text x="24" y="244" font-size="10" fill="#cbd9ce">CHECKED 2026-10-27 05:01 UTC / HOURLY</text>
 </g></svg>
